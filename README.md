@@ -12,7 +12,12 @@ That's enough for now.
 ---
 'signing off'
 > Michael
+---
 
-'Hmm, that isn't "code"'
-'<p>What if I put</p>'
-'<div>Actual code in the single quotes?</div>'
+'Hmm, I put 'signing off' in single quotes but it doesnt' look like code'
+
+'<div style="color: blue;">
+  <p>What if I put<br>
+    actual code in the single quotes?
+  </p>
+</div>'
